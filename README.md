@@ -23,8 +23,9 @@ Dieses Arduino-Projekt verwendet einen Arduino Mega, um zwei Relais-Boards mit j
 - Verbinde die Glühbirnen mit den entsprechenden Relais-Ausgängen (digitalen Pins 22-48).
 
 ## Software
-- Arduino IDE (Versionskompatibilität angeben, falls relevant)
+- Arduino IDE 
 - Zugriff auf den Quellcode dieses Projekts
+- Processing
 
 ## Installation
 1. Lade den Arduino-Sketch auf das Arduino Mega Board.
@@ -38,3 +39,6 @@ Du bist herzlich eingeladen, zu diesem Projekt beizutragen. Wenn du Verbesserung
 
 ## Lizenz
 Dieses Projekt steht unter der [Open Source Lizenz] (ersetze dies durch den Namen deiner Lizenz), die es jedem ermöglicht, am Code zu arbeiten, ihn zu verwenden und zu verbreiten.
+
+## Kommentar
+Dieses Projekt wurde nur auf Windows 10 ausprobiert, andere Betriebsysteme wurden nicht getestet.

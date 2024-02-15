@@ -38,7 +38,7 @@ Dieses Arduino-Projekt verwendet einen Arduino Mega, um zwei Relais-Boards mit j
 Du bist herzlich eingeladen, zu diesem Projekt beizutragen. Wenn du Verbesserungen vorschlagen oder Fehler melden möchtest, erstelle bitte ein Issue oder einen Pull Request in diesem Repository.
 
 ## Lizenz
-Dieses Projekt steht unter der [Open Source Lizenz] (ersetze dies durch den Namen deiner Lizenz), die es jedem ermöglicht, am Code zu arbeiten, ihn zu verwenden und zu verbreiten.
+Dieses Projekt steht unter der [Open Source Lizenz], die es jedem ermöglicht, am Code zu arbeiten, ihn zu verwenden und zu verbreiten.
 
 ## Kommentar
 Dieses Projekt wurde nur auf Windows 10 ausprobiert, andere Betriebsysteme wurden nicht getestet.
